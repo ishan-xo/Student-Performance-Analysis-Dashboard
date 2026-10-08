@@ -9,9 +9,11 @@ An enterprise-grade Power BI end-to-end analytics solution transforming raw acad
 data/
 │   ├── student_marks.csv               # Raw source data with real-world anomalies
 │   └── student_marks_upgraded.csv      # Cleansed dataset export
+
 docs/
 │   ├── Power_BI_Teammate_Playbook.pdf  # Comprehensive ETL & modeling playbook
 │   └── Student Performance Analysis Dashboard.pdf  # Full multi-page report export
+
 images/
 │   ├── slide 3 Dataset Overview.png    # Data pipeline & schema visual
 │   ├── slide 5.png                     # Page 1: Student Overview
